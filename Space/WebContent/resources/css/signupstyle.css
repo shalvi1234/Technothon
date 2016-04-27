@@ -1,0 +1,32 @@
+label{
+    display: inline-block;
+    float: center;
+    clear: left;
+    width: 250px;
+    text-align: right;
+}
+input {
+  display: inline-block;
+  float: center;
+  width:150px;
+}
+select{
+	
+  display: inline-block;
+  float: center;
+  width:150px;
+}
+
+#signup{
+    width: 18em;  height: 3em;
+ 
+}
+#panel{
+	background-image: url("../images/box1.jpg");
+}
+h1{
+	color:white;
+}
+p{
+	color:white;
+}

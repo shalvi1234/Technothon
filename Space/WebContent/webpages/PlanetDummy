@@ -1,0 +1,11 @@
+{
+	"target": {"name": "Mercury", "alt":"" },
+	"service": {
+		"name": "JPL Horizons",
+		"href": "http://ssd.jpl.nasa.gov/horizons.cgi?sstr=Mercury&amp;amp;body_group=all"
+	},
+	"message": "<li>Mercury is in our solar system and thus its celestial coordinates will vary noticeably over time. The given position is valid for <em title='Julian date: 2457465.012'>now</em>.</li>",
+	"jd":2457465.0116088,
+	"image": { "src":"http://server7.sky-map.org/imgcut?survey=DSS2&w=256&h=256&ra=0&de=&angle=1.25&output=PNG", "href":"https://en.wikipedia.org/wiki/Mercury" },
+	"category": {"avmcode":"","avmdesc":""}
+}

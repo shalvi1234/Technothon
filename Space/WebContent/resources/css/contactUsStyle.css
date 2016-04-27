@@ -1,0 +1,27 @@
+.panel-body{
+	
+	background-image: url("../images/box1.jpg");
+}
+input {
+  display: inline-block;
+  float: center;
+}
+label{
+    display: inline-block;
+    float: center;
+    clear: left;
+    width: 250px;
+    text-align: right;
+}
+#submitbtn{
+    width: 10em;  height: 3em;
+    position: right;
+ 
+}
+
+h1{
+	color: white;
+}
+p{
+	color:white;
+}

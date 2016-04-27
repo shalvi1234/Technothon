@@ -1,0 +1,15 @@
+{
+	"target": {"name": "ceres", "alt":"" },
+	"service": {
+		"name": "SkyBot",
+		"href": "http://www.imcce.fr/webservices/skybot/skybotresolver_query.php?-ep=2457465.71415509&amp;-mime=text&amp;-name=ceres&amp;-output=all&amp;-loc=000"
+	},
+	"coordsys": "FK5",
+	"equinox": "J2000",
+	"ra": { "decimal": 353.2047333, "h":"23", "m":"32", "s":"49.136" },
+	"dec": { "decimal": -11.5962111, "d": "-11", "m":"35", "s":"46.360" },
+	"galactic": { "lon": 69.20028, "lat": -65.87896 },
+	"jd":2457465.71418981,
+	"image": { "src":"//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Color_global_view_of_Ceres_-_Oxo_and_Haulani_craters.png/250px-Color_global_view_of_Ceres_-_Oxo_and_Haulani_craters.png", "href":"http://en.wikipedia.org/wiki/File:Color_global_view_of_Ceres_-_Oxo_and_Haulani_craters.png" },
+	"category": {"avmcode":"2.1","avmdesc":"Dwarf planet"}
+}

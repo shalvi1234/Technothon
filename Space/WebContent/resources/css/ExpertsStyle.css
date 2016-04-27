@@ -1,0 +1,24 @@
+#outerpanel{
+	background-image: url("../images/box1.jpg");
+	
+}
+#scroll{
+	max-height:150px;
+	
+}
+div.container{
+	
+}
+#question{
+	background-color: #bcc4c5;
+}
+
+h2{
+	color: white;
+}
+h4{
+	color: white;
+}
+p{
+	color:black;
+}

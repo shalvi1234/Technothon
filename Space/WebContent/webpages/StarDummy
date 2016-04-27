@@ -1,0 +1,15 @@
+{
+	"target": {"name": "canopus", "alt":"" },
+	"service": {
+		"name": "Simbad",
+		"href": "http://simbad.u-strasbg.fr/simbad/sim-id?Ident=canopus"
+	},
+	"coordsys": "FK5",
+	"equinox": "J2000",
+	"ra": { "decimal": 95.9879583, "h":"06", "m":"23", "s":"57.110" },
+	"dec": { "decimal": -52.6956611, "d": "-52", "m":"41", "s":"44.380" },
+	"galactic": { "lon": 261.21197, "lat": -25.29221 },
+	"jd":2457465.69116898,
+	"image": { "src":"http://server7.sky-map.org/imgcut?survey=DSS2&w=256&h=256&ra=6.39919722&de=-52.6956611&angle=1.25&output=PNG", "href":"http://server1.wikisky.org/v2?ra=6.39919722&de=-52.6956611&zoom=6&img_source=DSS2" },
+	"category": {"avmcode":"3","avmdesc":"Star"}
+}

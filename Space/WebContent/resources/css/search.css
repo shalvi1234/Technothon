@@ -1,0 +1,25 @@
+#imgFrmJsonData {
+	margin-top: 1cm;
+	margin-left: 2cm;
+	border: thick;
+	border-color: white;
+	border-style: ridge;
+	margin-left: 2cm;
+	padding-bottom: 1cm;
+}
+
+#searchPageBody {
+	position: static;
+}
+
+.container-fluid {
+	color: white ;
+	overflow: hidden;
+	margin-left: 20px;
+	margin-right: 40px;
+	border: thick;
+	border-style:ridge;
+	border-color:grey;
+	background-image: url("../../resources/images/box1.jpg");
+	
+}

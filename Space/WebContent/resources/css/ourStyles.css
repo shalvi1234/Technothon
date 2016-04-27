@@ -1,0 +1,79 @@
+#tweetsBox{
+	background-image:url('../../resources/images/box1.jpg');
+	color: white;
+	border: medium;
+	border-radius: 15px;
+	border-color: black;
+	
+}
+.loginBox{
+	background-image:url('../../resources/images/box1.jpg');
+	border: medium;
+	border-color: black;
+	border-radius: 15px;
+	
+}
+#username,#password{
+	color: gray;
+}
+#questionBox{
+	background-image:url('../../resources/images/box1.jpg');
+	border: medium;
+	border-color: black;
+	border-radius: 15px;
+	
+}
+
+#markque1{
+	color: black;
+}
+
+#apodCall{
+	
+	border-color: black;
+	border-radius: 15px;
+	
+}
+.thumbnail{
+	background-image:url('../../resources/images/box1.jpg');
+	border: medium;
+	border-color: black;
+	border-radius: 15px;
+	
+}
+.carousel-inner{
+	border: medium;
+	border-color: black;
+	border-radius: 15px;
+	
+}
+#quote{
+	background-image:url('../../resources/images/box1.jpg');
+	border: medium;
+	border-color: black;
+	border-radius: 15px;
+
+}
+h3,a,#quote,strong,#markque1,#aboutus,h1,h2,h6{
+color: white;	
+}
+body{
+	background-image: url("../../resources/images/spaceback.jpg");
+	background-size: cover;
+	cursor: url("resources/images/cursor.png");
+}
+hr {
+    border: 0;
+    height: 0; /* Firefox... */
+    box-shadow: 0 0 10px 1px white;
+}
+/* hr {  Not really supposed to work, but does
+    content: "\00a0";  Prevent margin collapse
+} */
+#marquee1 {
+	align:"center" onmouseover='this.stop();'
+	 onmouseout:'this.start();'
+	direction:"up" ;
+	height:"400" ;
+	scrollamount:"4";
+}
